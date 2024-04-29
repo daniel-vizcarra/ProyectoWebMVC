@@ -1,9 +1,95 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<!DOCTYPE HTML>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    <a asp-action="Index" asp-controller="ArtPieceDVs" class="btn btn-primary">art</a>
-</div>
+<html>
+<head>
+	<title>Phantom by HTML5 UP</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<div class="inner">
+
+				<!-- Logo -->
+				<a class="logo">
+					<span class="symbol"></span><span class="title">ATTICA</span>
+				</a>
+
+				<!-- Nav -->
+				<nav>
+					<ul>
+						<li><a href="#menu">Menu</a></li>
+					</ul>
+				</nav>
+
+			</div>
+		</header>
+
+		<!-- Menu -->
+		<nav id="menu">
+			<h2>Menu</h2>
+			<ul>
+				<a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+				<a class="nav-link text-white" asp-area="" asp-controller="ArtPieceDVs" asp-action="Index">Art Pieces</a>
+				<a class="nav-link text-white" asp-area="" asp-controller="Artists" asp-action="Index">Artists</a>
+
+			</ul>
+		</nav>
+
+		<!-- Main -->
+		<div id="main">
+			<div class="inner">
+				<header>
+					<h1>
+						El mejor lugar para adquir arte.<br />
+					
+					</h1>
+					<p>
+						
+					Attica es más que una simple tienda de arte. Es un espacio donde la pasión por el arte se une con la tecnología para ofrecer una experiencia de compra única e inolvidable. En Attica, encontrarás una amplia selección de obras de arte originales de artistas locales e internacionales, cuidadosamente seleccionadas para satisfacer los gustos más exigentes.
+					</p>
+				</header>
+				<section class="tiles">
+					<article >
+						<span class="image">
+							<img src="https://www.thoughtco.com/thmb/b8af_T0ihCV7kXui8HDq5iZ8jHg=/5694x4558/filters:no_upscale():max_bytes(150000):strip_icc()/VanGoghStarryNight02Getty544182028-5a14c855ec2f6400377ca5e9.jpg" alt="" />
+						</span>
+							<h2>Van Gogh</h2>
+					</article>
+					<article>
+						<span class="image">
+							<img src="https://www.terravision.eu/italiano/files/2018/10/last-supper.jpg" alt="" />
+						</span>
+							<h2>Da Vinci</h2>
+					</article>
+					<article>
+						<span class="image">
+							<img src="https://th.bing.com/th/id/OIP.Wd8zZwcKUHFIxhyDy0X1ZwHaJF?rs=1&pid=ImgDetMain" alt="" />
+						</span>
+
+							<h2>Munch</h2>
+					</article>
+				</section>
+			</div>
+		</div>
+
+		<!-- Footer -->
+		
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+</html>

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Attica.Data;
 using Attica.Models;
+using System.Globalization;
 
 namespace Attica.Controllers
 {
@@ -22,7 +23,7 @@ namespace Attica.Controllers
         // GET: ArtPieceDVs
         public async Task<IActionResult> Index()
         {
-            return View(await _context.ArtPieceDV.ToListAsync());
+            return View(await _context.ArtPieceDV.Include(a => a.Artist).ToListAsync());
         }
 
         // GET: ArtPieceDVs/Details/5
@@ -47,6 +48,7 @@ namespace Attica.Controllers
         public IActionResult Create()
         {
             ViewBag.Artists = _context.Artist.OrderBy(a => a.Name).ToList();
+
             return View();
         }
 
@@ -55,17 +57,27 @@ namespace Attica.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ArtPieceId,Title,ArtistId,Price,ImageUrl")] ArtPieceDV artPieceDV)
+        public async Task<IActionResult> Create(ArtPieceDV artPieceDV, string price)
         {
+            decimal priceValue;
+            if (Decimal.TryParse(price, NumberStyles.Any, CultureInfo.InvariantCulture, out priceValue))
+            {
+                artPieceDV.Price = priceValue;
+            }
+            else
+            {
+                ModelState.AddModelError("Price", "Invalid price format");
+            }
+
             if (ModelState.IsValid)
             {
-
                 _context.Add(artPieceDV);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(artPieceDV);
         }
+
 
         // GET: ArtPieceDVs/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -91,11 +103,21 @@ namespace Attica.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ArtPieceId,Title,ArtistId,Price,ImageUrl")] ArtPieceDV artPieceDV)
+        public async Task<IActionResult> Edit(int id, ArtPieceDV artPieceDV, string price)
         {
             if (id != artPieceDV.ArtPieceId)
             {
                 return NotFound();
+            }
+
+            decimal priceValue;
+            if (Decimal.TryParse(price, NumberStyles.Any, CultureInfo.InvariantCulture, out priceValue))
+            {
+                artPieceDV.Price = priceValue;
+            }
+            else
+            {
+                ModelState.AddModelError("Price", "Invalid price format");
             }
 
             if (ModelState.IsValid)
@@ -116,13 +138,13 @@ namespace Attica.Controllers
                         throw;
                     }
                 }
-
                 return RedirectToAction(nameof(Index));
             }
 
             ViewBag.Artists = await _context.Artist.OrderBy(a => a.Name).ToListAsync();
             return View(artPieceDV);
         }
+
 
         // GET: ArtPieceDVs/Delete/5
         public async Task<IActionResult> Delete(int? id)

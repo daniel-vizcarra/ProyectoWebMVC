@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Attica.Models
 {
@@ -11,5 +12,10 @@ namespace Attica.Models
         public Artist? Artist { get; set; } // Navigation property for the Artist table
         public decimal Price { get; set; }
         public string? ImageUrl { get; set; }
+
+
+
     }
+
+
 }

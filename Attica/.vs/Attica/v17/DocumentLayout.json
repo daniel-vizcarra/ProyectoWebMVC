@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\Attica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\artpiecedvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\artpiecedvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\controllers\\artpiecedvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\controllers\\artpiecedvscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +39,44 @@
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\models\\artpiecedv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\data\\atticacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\data\\atticacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\migrations\\20240429011725_v2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\migrations\\20240429011725_v2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\migrations\\20240429031543_v5migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\migrations\\20240429031543_v5migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\artpiecedvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\artpiecedvs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\artists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\artists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,52 +91,20 @@
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\artists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\artpiecedvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\artpiecedvs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\artpiecedvs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\artpiecedvs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\migrations\\20240429011725_v2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\migrations\\20240429011725_v2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\migrations\\20240429013420_v3migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\migrations\\20240429013420_v3migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\data\\atticacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\data\\atticacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|c:\\users\\daniel\\source\\repos\\attica\\attica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF03A85-FCF3-47CC-8C18-623132A8095C}|Attica\\Attica.csproj|solutionrelative:attica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,82 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Delete.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Artists\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T02:21:01.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
-              "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T02:08:27.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Details.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Details.cshtml",
-              "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T02:06:13.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArtPieceDVsController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtPieceDVsController.cs",
-              "RelativeDocumentMoniker": "Attica\\Controllers\\ArtPieceDVsController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtPieceDVsController.cs*",
-              "RelativeToolTip": "Attica\\Controllers\\ArtPieceDVsController.cs*",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwJEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T00:17:44.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ArtistsController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtistsController.cs",
-              "RelativeDocumentMoniker": "Attica\\Controllers\\ArtistsController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtistsController.cs",
-              "RelativeToolTip": "Attica\\Controllers\\ArtistsController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwIkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T01:14:48.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Artist.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\Artist.cs",
               "RelativeDocumentMoniker": "Attica\\Models\\Artist.cs",
               "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\Artist.cs",
               "RelativeToolTip": "Attica\\Models\\Artist.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T01:13:12.602Z",
               "EditorCaption": ""
@@ -194,187 +145,18 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Create.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Create.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Artists\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T01:39:25.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Create.cshtml",
               "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Create.cshtml",
               "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Create.cshtml",
               "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-29T01:20:50.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArtPieceDV.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\ArtPieceDV.cs",
-              "RelativeDocumentMoniker": "Attica\\Models\\ArtPieceDV.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\ArtPieceDV.cs",
-              "RelativeToolTip": "Attica\\Models\\ArtPieceDV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T00:12:58.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Edit.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Artists\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T02:23:53.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Attica\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Attica\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T00:39:34.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Index.cshtml",
-              "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Index.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAMwCQAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:26:26.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240429011725_V2Migration.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429011725_V2Migration.cs",
-              "RelativeDocumentMoniker": "Attica\\Migrations\\20240429011725_V2Migration.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429011725_V2Migration.cs",
-              "RelativeToolTip": "Attica\\Migrations\\20240429011725_V2Migration.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T01:51:18.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240429013420_V3Migration.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429013420_V3Migration.cs",
-              "RelativeDocumentMoniker": "Attica\\Migrations\\20240429013420_V3Migration.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429013420_V3Migration.cs",
-              "RelativeToolTip": "Attica\\Migrations\\20240429013420_V3Migration.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAiwD0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T01:47:59.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:20:21.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AtticaContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Data\\AtticaContext.cs",
-              "RelativeDocumentMoniker": "Attica\\Data\\AtticaContext.cs",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Data\\AtticaContext.cs",
-              "RelativeToolTip": "Attica\\Data\\AtticaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T00:31:55.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:27:31.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:27:36.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:47:18.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\appsettings.json",
-              "RelativeDocumentMoniker": "Attica\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\appsettings.json",
-              "RelativeToolTip": "Attica\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-29T00:06:09.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Attica\\appsettings.Development.json",
@@ -387,7 +169,294 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtPieceDVsController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtPieceDVsController.cs",
+              "RelativeDocumentMoniker": "Attica\\Controllers\\ArtPieceDVsController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtPieceDVsController.cs",
+              "RelativeToolTip": "Attica\\Controllers\\ArtPieceDVsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:17:44.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Attica\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Attica\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:19:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Attica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Attica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:39:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T00:27:36.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T00:20:21.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Attica\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Attica\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T04:09:51.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Index.cshtml",
+              "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T00:26:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtticaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Data\\AtticaContext.cs",
+              "RelativeDocumentMoniker": "Attica\\Data\\AtticaContext.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Data\\AtticaContext.cs",
+              "RelativeToolTip": "Attica\\Data\\AtticaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:31:55.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Attica\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Attica\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-29T04:27:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "Attica\\Controllers\\ArtistsController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "Attica\\Controllers\\ArtistsController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwIkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:14:48.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtPieceDV.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\ArtPieceDV.cs",
+              "RelativeDocumentMoniker": "Attica\\Models\\ArtPieceDV.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Models\\ArtPieceDV.cs",
+              "RelativeToolTip": "Attica\\Models\\ArtPieceDV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:12:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
+              "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:08:27.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240429031543_V5Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429031543_V5Migration.cs",
+              "RelativeDocumentMoniker": "Attica\\Migrations\\20240429031543_V5Migration.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429031543_V5Migration.cs",
+              "RelativeToolTip": "Attica\\Migrations\\20240429031543_V5Migration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:18:29.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Details.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Details.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Artists\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:48:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240429011725_V2Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429011725_V2Migration.cs",
+              "RelativeDocumentMoniker": "Attica\\Migrations\\20240429011725_V2Migration.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429011725_V2Migration.cs",
+              "RelativeToolTip": "Attica\\Migrations\\20240429011725_V2Migration.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:51:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Edit.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Artists\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:23:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Create.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Create.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Artists\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T01:39:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T00:47:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\ArtPieceDVs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\ArtPieceDVs\\Details.cshtml",
+              "RelativeToolTip": "Attica\\Views\\ArtPieceDVs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:06:13.33Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Artists\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Artists\\Delete.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Artists\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:21:01.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240429013420_V3Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429013420_V3Migration.cs",
+              "RelativeDocumentMoniker": "Attica\\Migrations\\20240429013420_V3Migration.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Migrations\\20240429013420_V3Migration.cs",
+              "RelativeToolTip": "Attica\\Migrations\\20240429013420_V3Migration.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:47:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Attica\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Attica\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T00:27:31.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\appsettings.json",
+              "RelativeDocumentMoniker": "Attica\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\appsettings.json",
+              "RelativeToolTip": "Attica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T00:06:09.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Program.cs",
               "RelativeDocumentMoniker": "Attica\\Program.cs",
@@ -395,25 +464,11 @@
               "RelativeToolTip": "Attica\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T00:06:12.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T00:06:12.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Attica\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Attica\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:28:04.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Attica\\Views\\_ViewImports.cshtml",
@@ -421,12 +476,11 @@
               "RelativeToolTip": "Attica\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:28:28.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T00:28:28.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\Attica\\Attica\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Attica\\Views\\_ViewStart.cshtml",
@@ -434,8 +488,7 @@
               "RelativeToolTip": "Attica\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T00:28:29.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T00:28:29.423Z"
             }
           ]
         }
